@@ -1,6 +1,6 @@
 # image_bloc
 
-A new Flutter application.
+A flutter demo app using provider and BLoC
 
 ## Getting Started
 
